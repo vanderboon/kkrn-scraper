@@ -1,2 +1,4 @@
 colorama >= 0.4.0
 typer
+requests
+bs4
